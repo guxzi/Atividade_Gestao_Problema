@@ -1,6 +1,6 @@
 # Loja de Consoles · Atividade de POO em Java
 
-Atividade da disciplina de Gestão e Construção de Software (GCVA): partir de um código com problemas de design e corrigi-lo, passo a passo, aplicando os pilares da orientação a objetos.
+Atividade da disciplina GCVA: partir de um código com problemas de design e corrigi-lo, passo a passo, aplicando os pilares da orientação a objetos.
 
 | Parte | Conceito | O que foi feito |
 | --- | --- | --- |
